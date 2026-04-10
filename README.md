@@ -82,6 +82,12 @@ streamlit run app.py
 
 Open your browser at `http://localhost:8501`
 
+### In my project I svaed in D drive : D:\Python310\python.exe to  Run the app
+
+```bash
+D:\Python310\python.exe -m streamlit run "D:\c.downloads\Comment_Toxicity\app.py"
+```
+
 ---
 
 ## 🚀 Features
